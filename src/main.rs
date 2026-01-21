@@ -66,7 +66,7 @@ fn print_help() {
 Author: shenjack & Gemini 3 Pro & GPT 5 mini & GLM 4.7 & DeepSeek v3.2 (按照贡献多少排序(确信))
 
 用法:
-  sb_dice [选项] <path/to/file.ts>
+  sb_dice <path/to/file.ts>
   sb_dice -h
   sb_dice --help
 
