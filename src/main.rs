@@ -86,8 +86,8 @@ Author: shenjack & Gemini 3 Pro & GPT 5 mini & GLM 4.7 & DeepSeek v3.2 (按照�
     - <name>_s.json: 映射表，形如 {{"0":"原始字符串0","1":"原始字符串1",...}}
 
 注意事项:
-  - 不会替换模板字符串中的静态部分（quasis）
-  - 会替换 import/require 中的字符串模块路径
+  - 不会替换模板字符串中的静态部分（quasis） (反正你也用不到)
+  - 会替换 import/require 中的字符串模块路径 (反正也不应该有)
   - 输出代码中去掉注释"#);
 }
 
